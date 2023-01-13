@@ -5,7 +5,7 @@ B.S. Robotics & Digital Systems Engineering | Software Developer | Cibersecurity
 
 I am Luis Felipe, I am currently studying Robotics and Digital Systems Engineering, I am interested in Cybersecurity, defensive and offensive issues. 💻I also like web development where I am constantly learning. I am a student at Tecnológico de Monterrey. 🐑🔵  I'm based in Santa Fe, CDMX ✉️  You can contact me at [felipeflourwears619@gmail.com](mailto:felipeflourwears619@gmail.com).
 
-<a href="https://www.twitter.com/absa_garcia" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/absa_garcia?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/eliecergarcia" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/eliecergarcia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left"> 
